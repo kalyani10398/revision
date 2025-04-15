@@ -1,3 +1,3 @@
 <?php
-hello
+hello how are you
 ?>
